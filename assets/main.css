@@ -21,7 +21,7 @@ color: #D11400;
  }
 
 .rotate {
-	animation: rotation 8s infinite linear;
+	animation: rotation 3s infinite linear;
  	object-fit:  fill;
  	
   }
